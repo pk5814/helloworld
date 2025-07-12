@@ -1,1 +1,1 @@
-#git new release
+print("hello world")
